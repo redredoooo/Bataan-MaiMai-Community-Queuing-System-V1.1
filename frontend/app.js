@@ -1,4 +1,4 @@
-const API_URL = "https://your-backend-url.onrender.com";
+const API_URL = "https://bataan-maimai-community-queuing-system.onrender.com";
 
 async function fetchQueue() {
     let response = await fetch(`${API_URL}/queue`);
