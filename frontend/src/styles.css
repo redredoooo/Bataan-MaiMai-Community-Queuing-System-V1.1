@@ -1,0 +1,12 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.queue-container {
+    border: 2px solid #ffffff;
+    padding: 10px;
+}
+
+button {
+    cursor: pointer;
+}
